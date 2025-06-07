@@ -23,7 +23,7 @@ A simple calculator web app built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.PNG)  
+![Calculator Screenshot](screenshot.png)  
 
 
 ## License
