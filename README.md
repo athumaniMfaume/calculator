@@ -23,7 +23,11 @@ A simple calculator web app built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.PNG)  
+![Calculator Screenshot](screenshot.PNG) 
+
+## Live 
+
+ https://athumanimfaume.github.io/calculator/
 
 
 ## License
